@@ -9,4 +9,4 @@ print((b, a)[a>b], "is larger by Method 2 (Tuple Method)")
 
 print({True: a, False: b}[a>b], "is larger by Method 3 (Dictionary Method)")
 
-print((lambda: a, lambda: b)[a>b], "is larger by Method 4 (Lambda Method)")
+print((lambda: b, lambda: a)[a>b](), "is larger by Method 4 (Lambda Method)")
