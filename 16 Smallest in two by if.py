@@ -1,4 +1,4 @@
-# Write a C program to find the smallest number between the two numbers using if statements.
+# Write a Python program to find the smallest number between the two numbers using if statements.
 
 a : int = int(input("Enter first number: "))
 b : int = int(input("Enter second number: "))

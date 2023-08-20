@@ -1,4 +1,4 @@
-# Write a C program to find the largest number between the two numbers using different methods.
+# Write a Python program to find the largest number between the two numbers using different methods.
 
 a : int = int(input("Enter first number: "))
 b : int = int(input("Enter second number: "))
