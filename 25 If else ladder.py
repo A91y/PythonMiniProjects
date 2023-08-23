@@ -1,4 +1,4 @@
-# Write a C program to find the value of y using if-else ladder.
+# Write a Python program to find the value of y using if-else ladder.
 #         1+x     n=1
 #  y =    1+x/n   n=2
 #         1+x^n    n=3
